@@ -27,8 +27,9 @@ header {
     align-items: center;
 }
 
-.google-logo {
-    margin-top: 120px; /* Adjust as needed */
+.google-logo img {
+    width: 92px; /* Set width to match Google's logo size */
+    height: 30px; /* Set height to match Google's logo size */
 }
 
 .search-container {
